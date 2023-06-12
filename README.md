@@ -4,11 +4,13 @@ The aim of this study is to build and evaluate the sentiment analysis models on 
     - Data cleaning
     - Lemmatization
     - Normalization
-3. Methodology
+2. Methodology
     - Convolution Neural Network (CNN)
     - Long Short-Term Memory (LSTM)
     - K-Mean Clustering
-5. Performance, Evaluation & Comparison
+3. Performance, Evaluation & Comparison
     - Precision
     - Recall
     - F1-score
+Conclusion
+The supervised models (CNN and LSTM) perform better than the unsupervised model (K-means) in the experiments.
